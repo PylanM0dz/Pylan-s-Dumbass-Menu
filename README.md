@@ -3,7 +3,7 @@
 <p align="center">
 <a href="#"><img src="https://raw.githubusercontent.com/PylanM0dz/Pylan-s-Dumbass-Menu/main/Screenshot%202026-10-27%20164023.png" width="130" alt="Pylan's Dumbass Menu Logo"></a>
   <br>
-  <img src="Resources/GitHub/title.png" width="500" alt="Pylan's Dumbass Menu">
+ 
 </p>
 
 ---
