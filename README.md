@@ -1,9 +1,8 @@
 # Pylan's Dumbass Menu
 
 <p align="center">
-<a href="#"><img src="https://raw.githubusercontent.com/PylanM0dz/Pylan-s-Dumbass-Menu/main/Screenshot%202026-10-27%20164023.png" width="130" alt="Pylan's Dumbass Menu Logo"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/PylanM0dz/Pylan-s-Dumbass-Menu/main/Screenshot%202026-10-27%20164023.png" width="130" alt="Pylan's Dumbass Menu Logo"></a>
   <br>
- 
 </p>
 
 ---
@@ -12,7 +11,10 @@
   <a href="https://github.com/PylanM0dz/Pylan-s-Dumbass-Menu/releases">
     <img src="https://img.shields.io/github/v/release/PylanM0dz/Pylan-s-Dumbass-Menu?style=for-the-badge&label=Version" alt="Latest Version">
   </a>
- <a href="https://github.com/PylanM0dz/Pylan-s-Dumbass-Menu/releases/latest">Download Pylan's Dumbass Menu</a>
+  <a href="https://github.com/PylanM0dz/Pylan-s-Dumbass-Menu/releases/latest">
+    <img src="https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge" alt="Download Latest Release">
+  </a>
+  <a href="https://github.com/PylanM0dz/Pylan-s-Dumbass-Menu/releases">
     <img src="https://img.shields.io/github/downloads/PylanM0dz/Pylan-s-Dumbass-Menu/total?style=for-the-badge&label=Downloads" alt="Total Downloads">
   </a>
   <a href="https://github.com/PylanM0dz/Pylan-s-Dumbass-Menu">
