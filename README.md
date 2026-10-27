@@ -1,7 +1,7 @@
 # Pylan's Dumbass Menu
 
 <p align="center">
-  <img src="Resources/GitHub/icon-transparent.png" width="130" alt="Pylan's Dumbass Menu Logo">
+  <img src="Resources/GitHub/Screenshot 2026-10-27 164023.png" width="130" alt="Pylan's Dumbass Menu Logo">
   <br>
   <img src="Resources/GitHub/title.png" width="500" alt="Pylan's Dumbass Menu">
 </p>
