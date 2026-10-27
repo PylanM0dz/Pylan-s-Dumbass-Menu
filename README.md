@@ -12,7 +12,7 @@
   <a href="https://github.com/PylanM0dz/Pylan-s-Dumbass-Menu/releases">
     <img src="https://img.shields.io/github/v/release/PylanM0dz/Pylan-s-Dumbass-Menu?style=for-the-badge&label=Version" alt="Latest Version">
   </a>
-  <a href="https://github.com/PylanM0dz/Pylan-s-Dumbass-Menu/releases">
+ <a href="https://github.com/PylanM0dz/Pylan-s-Dumbass-Menu/releases/latest">Download Pylan's Dumbass Menu</a>
     <img src="https://img.shields.io/github/downloads/PylanM0dz/Pylan-s-Dumbass-Menu/total?style=for-the-badge&label=Downloads" alt="Total Downloads">
   </a>
   <a href="https://github.com/PylanM0dz/Pylan-s-Dumbass-Menu">
